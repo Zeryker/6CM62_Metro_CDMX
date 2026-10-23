@@ -1,0 +1,5 @@
+﻿id_clima,clima_estado,aplica_marcha_seguridad
+0,Sin dato,0
+1,Despejado,0
+2,Nublado,0
+3,Lluvia,1

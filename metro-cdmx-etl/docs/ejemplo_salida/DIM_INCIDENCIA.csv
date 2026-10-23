@@ -1,0 +1,6 @@
+﻿id_incidencia,tipo_incidencia,descripcion,gravedad
+0,Sin incidencia registrada,No se registró incidencia,Ninguna
+1,Falla de tren,Avería de material rodante,Media
+2,Falla de energia,Interrupción de suministro eléctrico,Alta
+3,Persona en vias,Retiro de persona de la vía,Alta
+4,Falla de senalizacion,Falla en sistema de señalización,Media
