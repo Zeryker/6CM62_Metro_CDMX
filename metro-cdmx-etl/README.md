@@ -39,12 +39,8 @@ python -m pytest -q
 | R02 | Quita espacios extra y normaliza Unicode |
 | R03 | Fechas corregidas (ISO o día/mes/año); `id_fecha` en formato `YYYYMMDD` |
 | R04 | `Linea 1`, `Línea A`, `12` → código de línea estándar |
-| R05 | Afluencia numérica (quita comas); nula/no numérica → rechazada |
-| R06 | Afluencia negativa → rechazada |
-| R07 | `anio` y `mes` se validan contra `fecha` (manda la fecha) |
-| R08 | Una estación = (nombre normalizado, línea); se unifican variantes de escritura |
-| R09 | Duplicados exactos eliminados |
-| R10 | Misma fecha+estación+línea con valores distintos: se conserva el primero y se reporta |
+| R05 | Duplicados exactos eliminados |
+| R06 | Misma fecha+estación+línea con valores distintos: se conserva el primero y se reporta |
 
 ## Datos simulados
 
