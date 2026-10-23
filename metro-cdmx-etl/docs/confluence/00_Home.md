@@ -17,6 +17,6 @@ Solución de inteligencia de negocios que toma el histórico de afluencia del Me
 8. Control de versiones (Git)
 
 ## Enlaces
-- Repositorio: `<URL del repositorio>`
+- Repositorio: https://github.com/Zeryker/6CM62_Metro_CDMX/tree/main/metro-cdmx-etl
 - Dashboard en Cognos: `DASHBOARD_METRO_CDMX`
 - Módulo de datos en Cognos: `DM_METRO_CDMX`
